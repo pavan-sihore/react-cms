@@ -5,7 +5,7 @@
 
 ```bash
 # clone this repository or click 'use this template' button
-$ git clone https://github.com/pavan-sihore/mearn_auth.git
+$ git clone git@github.com:pavan-sihore/react-cms.git
 ```
 
 ```bash
