@@ -5,7 +5,7 @@
 
 ```bash
 # clone this repository or click 'use this template' button
-$ git clone git@github.com:pavan-sihore/react-cms.git
+$ git clone https://github.com/pavan-sihore/react-cms-tailwind.git
 ```
 
 ```bash
